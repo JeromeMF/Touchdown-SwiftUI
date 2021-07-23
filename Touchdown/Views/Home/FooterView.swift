@@ -13,7 +13,7 @@ struct FooterView: View {
             Text("We offer the most cutting edge, comfortable, lightweight and durable football helmets in the marker at affordable prices.")
                 .foregroundColor(.gray)
                 .multilineTextAlignment(.center)
-                .layoutPriority(2)
+                .layoutPriority(2 )
             
             Image("logo-lineal")
                 .renderingMode(.template)
